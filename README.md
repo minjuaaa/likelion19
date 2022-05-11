@@ -4,7 +4,7 @@
 과제물 및 프로젝트 (장고)
 
 <h1>wordcount: 글자수세기</h1>
-![image](https://user-images.githubusercontent.com/51702223/167956562-a48445f0-8fb0-4c8e-9a9f-0f6e1e8703ca.png)
+<img src="https://user-images.githubusercontent.com/51702223/167956562-a48445f0-8fb0-4c8e-9a9f-0f6e1e8703ca.png" />
 
 \n
 <h1>blog project:</h1>
